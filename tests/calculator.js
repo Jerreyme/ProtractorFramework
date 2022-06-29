@@ -122,7 +122,7 @@ describe('Demo Calculator Test', function () {
 
         homepage.verifyResult('0');
 
-        browser.sleep(2000);
+        browser.sleep(3000);
 
     });
 
